@@ -1,18 +1,9 @@
-LABORBAU GRITTMANN – WEBSITE-PROTOTYP
+LABORBAU GRITTMANN – MODERNE WEBSITE-DEMO
 
-Start: index.html im Browser öffnen.
-Veröffentlichung: index.html, styles.css und script.js gemeinsam auf den Webserver hochladen.
+GitHub Pages: Alle Dateien index.html, styles.css, script.js, shop.html, shop.js direkt im Hauptverzeichnis des Repositorys hochladen. Alte gleichnamige Dateien ersetzen. Kein Build-Prozess erforderlich.
 
-WICHTIG VOR LIVEGANG:
-- Texte, historische Angaben und Kontaktdaten mit dem Unternehmen abstimmen.
-- Alle Bilder sind derzeit externe Demo-Bilder von Unsplash, keine Fotos von Laborbau Grittmann. Nutzungsrechte prüfen und durch eigene Bilder ersetzen.
-- Impressum und Datenschutzerklärung ergänzen und rechtlich prüfen.
-- Kontakt-E-Mail im HTML prüfen. Der Kontaktbutton öffnet das E-Mail-Programm, es gibt kein serverseitiges Kontaktformular.
-- Browserübergreifend testen, SEO und Barrierefreiheit final prüfen.
-- Die bestehende Live-Website wird durch diese Dateien nicht verändert.
+BILDER: Die Originalbilddateien der bestehenden Website konnten in dieser Umgebung nicht heruntergeladen werden. Deshalb enthält diese Version bewusst gestaltete grafische Platzhalter statt unbestätigter Fremdbilder. Später lokale Bilder im Ordner bilder/ ergänzen und die Platzhalter durch <img>-Elemente ersetzen.
 
-SHOP-DEMO (shop.html):
-- Produktkategorien sind illustrative Beispiele, keine bestätigten Artikel.
-- Anfrageliste mit Mengen und E-Mail-Entwurf, kein echter Checkout.
-- Für echte Bestellungen: bestätigtes Sortiment, Preise, Lagerbestand, Zahlungsanbieter, Backend, rechtliche Texte, Datenschutz und sichere Bestellprozesse nötig.
-- Bitte alle Kontaktdaten vor Livegang prüfen.
+SHOP: Produktanfrage-Demo, KEIN echter Checkout und KEINE Onlinezahlungen.
+
+Rechtliches: Impressum und Datenschutz verlinken derzeit auf die bestehende Website; vor produktivem Einsatz prüfen und ggf. eigene rechtliche Seiten erstellen.
