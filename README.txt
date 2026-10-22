@@ -1,9 +1,11 @@
-LABORBAU GRITTMANN – MODERNE WEBSITE-DEMO
+LABORBAU GRITTMANN – DEMO MIT BILDERN
 
-GitHub Pages: Alle Dateien index.html, styles.css, script.js, shop.html, shop.js direkt im Hauptverzeichnis des Repositorys hochladen. Alte gleichnamige Dateien ersetzen. Kein Build-Prozess erforderlich.
+Dateien: index.html, shop.html, styles.css, script.js, shop.js
+Alle fünf Dateien direkt im Hauptverzeichnis des GitHub-Repositories hochladen. Bestehende gleichnamige Dateien ersetzen.
 
-BILDER: Die Originalbilddateien der bestehenden Website konnten in dieser Umgebung nicht heruntergeladen werden. Deshalb enthält diese Version bewusst gestaltete grafische Platzhalter statt unbestätigter Fremdbilder. Später lokale Bilder im Ordner bilder/ ergänzen und die Platzhalter durch <img>-Elemente ersetzen.
-
-SHOP: Produktanfrage-Demo, KEIN echter Checkout und KEINE Onlinezahlungen.
-
-Rechtliches: Impressum und Datenschutz verlinken derzeit auf die bestehende Website; vor produktivem Einsatz prüfen und ggf. eigene rechtliche Seiten erstellen.
+WICHTIG:
+- Die eingebundenen Fotos sind externe illustrative Beispielbilder (Unsplash), KEINE Originalfotos von Laborbau Grittmann.
+- Die Fotos benötigen Internetzugriff; bei blockierten Bildservern können sie fehlen. Vor produktiver Nutzung Bildrechte und dauerhafte Verfügbarkeit prüfen und Bilder lokal hosten.
+- Der Shop ist nur ein Anfragekatalog, kein Checkout oder Zahlungssystem.
+- Impressum/Datenschutz verweisen vorläufig auf die bestehende Website und müssen vor Veröffentlichung rechtlich geprüft werden.
+- Angaben und Produktdarstellungen vor öffentlicher geschäftlicher Nutzung kontrollieren.
