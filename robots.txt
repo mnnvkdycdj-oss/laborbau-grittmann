@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mnnvkdycdj-oss.github.io/laborbau-grittmann/sitemap.xml
