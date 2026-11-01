@@ -63,7 +63,7 @@ section.gr-landing::before,section.gr-landing::after{content:none!important;disp
 #kontakt .contact-form input,#kontakt .contact-form select,#kontakt .contact-form textarea{display:block;box-sizing:border-box;width:100%;font:inherit;border:1px solid #c7d2e1;border-radius:10px;background:#fff;color:#183452;padding:12px 14px;min-height:46px}
 #kontakt .contact-form textarea{resize:vertical}#kontakt .contact-form :is(input,select,textarea):focus{outline:3px solid #9fc4fa;outline-offset:1px}
 #kontakt .contact-submit{display:block;width:100%;margin-top:22px;cursor:pointer;border:0;text-align:center;background:#174d85;color:#fff;font-weight:700;padding:15px 18px;border-radius:11px}
-#kontakt .contact-note{font-size:.82rem;line-height:1.55;color:#53647a;margin:12px 0 0}
+#kontakt .contact-note{font-size:.82rem;line-height:1.55;color:#53647a!important;background:#fff;margin:12px 0 0}
 @media(max-width:720px){#kontakt .contact-layout{grid-template-columns:1fr;gap:18px}#kontakt .contact-info,#kontakt .contact-form{padding:20px}#kontakt .contact-link strong{font-size:.95rem}}
 </style><style id="grittmann-history-2026">
 .gr-history{background:linear-gradient(120deg,#071e3b 0%,#103b69 62%,#155184 100%);color:#fff;padding:64px 20px;position:relative;overflow:hidden}
@@ -200,7 +200,7 @@ section.gr-landing .gr-landing-photo{position:absolute!important;inset:0!importa
 .gr-slide{position:absolute;inset:0;background-position:center;background-size:cover;opacity:0;transition:opacity .9s ease;pointer-events:none}
 .gr-slide.is-active{opacity:1}
 section.gr-landing .gr-landing-content{position:relative!important;z-index:1!important;width:min(560px,calc(100% - 100px))!important;max-width:560px!important;margin:50px 0 65px max(35px,calc((100vw - 1160px)/2))!important;padding:30px 34px!important;border-radius:12px!important;background:rgba(9,34,63,.87)!important;box-sizing:border-box!important}
-section.gr-landing .gr-landing-content h1{font-size:clamp(30px,3.5vw,48px)!important;line-height:1.15!important}
+@media(min-width:701px){section.gr-landing .gr-landing-content h1{font-size:clamp(30px,3.5vw,47px)!important;line-height:1.15!important;overflow-wrap:normal!important}}
 section.gr-landing .gr-landing-content p{font-size:17px!important;line-height:1.5!important}
 .gr-slide-prev,.gr-slide-next{position:absolute;top:50%;transform:translateY(-50%);z-index:3;width:43px;height:43px;border:0;border-radius:50%;background:rgba(8,28,50,.68);color:#fff;font-size:32px;cursor:pointer;display:grid;place-items:center;line-height:1}
 .gr-slide-prev{left:10px}.gr-slide-next{right:10px}
