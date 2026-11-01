@@ -1,0 +1,23 @@
+[
+  {
+    "quelle": "https://laborbau-grittmann.de/impressum/",
+    "abgerufen_am": "2026-11-01T18:40:18.009065+00:00",
+    "originaldatei": "docs/recht/quellen/impressum-original.html.txt",
+    "sha256": "9ca1425bb6f1b5ea9ce8f110f0582f11057f36c3391d6745006a906d946cc469",
+    "hinweis": "Bytegetreue Abrufkopie. Lesefassung nur zur Prüfung; bei Abweichungen gilt das Original."
+  },
+  {
+    "quelle": "https://laborbau-grittmann.de/datenschutzerklaerung/",
+    "abgerufen_am": "2026-11-01T18:40:18.010084+00:00",
+    "originaldatei": "docs/recht/quellen/datenschutz-original.html.txt",
+    "sha256": "dfff5e9702a74289467bf1c4407286505e4965c8488ccf9aa165579124e25b83",
+    "hinweis": "Bytegetreue Abrufkopie. Lesefassung nur zur Prüfung; bei Abweichungen gilt das Original."
+  },
+  {
+    "quelle": "https://laborbau-grittmann.de/wp-content/uploads/2015/05/ALLGEMEINE-GESCH%C3%84FTS-u.-LIEFERBEDINGUNGEN.pdf",
+    "abgerufen_am": "2026-11-01T18:40:18.010864+00:00",
+    "originaldatei": "dokumente/agb-bestandsfassung.pdf",
+    "sha256": "df17653469b7c56bd76ece7ad055fd3df1c9e2cb8410e579b1a0fdbd3a9d96b3",
+    "hinweis": "Bytegetreue Abrufkopie. Lesefassung nur zur Prüfung; bei Abweichungen gilt das Original."
+  }
+]
