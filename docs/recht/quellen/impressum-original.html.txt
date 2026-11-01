@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://laborbau-grittmann.de/xmlrpc.php" />
+<script type="text/javascript">
+document.documentElement.className = 'js';
+</script>
+<script>var et_site_url='https://laborbau-grittmann.de';var et_post_id='270';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Impressum | Laborbau Grittmann</title>
+<link rel="alternate" type="application/rss+xml" title="Laborbau Grittmann &raquo; Feed" href="https://laborbau-grittmann.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Laborbau Grittmann &raquo; Kommentar-Feed" href="https://laborbau-grittmann.de/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Laborbau Grittmann &raquo; Kommentar-Feed zu Impressum" href="https://laborbau-grittmann.de/impressum/feed/" />
+<meta content="Divi Child v.2.2" name="generator"/><!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://laborbau-grittmann.de/wp-includes/css/dist/block-library/style.min.css?ver=5.4.24' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='parent-style-css'  href='https://laborbau-grittmann.de/wp-content/themes/Divi/style.css?ver=5.4.24' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='child-style-css'  href='https://laborbau-grittmann.de/wp-content/themes/Divi-child/style.css?ver=2.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='my-custom-fonts-css'  href='https://laborbau-grittmann.de/wp-content/themes/Divi-child/css/my-custom-fonts.css?ver=5.4.24' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='divi-style-css'  href='https://laborbau-grittmann.de/wp-content/themes/Divi-child/style.css?ver=4.4.8' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='dashicons-css'  href='https://laborbau-grittmann.de/wp-includes/css/dashicons.min.css?ver=5.4.24' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//laborbau-grittmann.de/wp-content/cache/wpfc-minified/df168nlx/a499x.css" media="all"/>
+<script src='//laborbau-grittmann.de/wp-content/cache/wpfc-minified/g5pda27w/66x0t.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://laborbau-grittmann.de/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script> -->
+<!-- <script type='text/javascript' src='https://laborbau-grittmann.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script> -->
+<!-- <script type='text/javascript' src='https://laborbau-grittmann.de/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.4.24'></script> -->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"impressum"}};
+/* ]]> */
+</script>
+<script src='//laborbau-grittmann.de/wp-content/cache/wpfc-minified/8wi3884v/a499x.js' type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://laborbau-grittmann.de/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.4.24'></script> -->
+<link rel='https://api.w.org/' href='https://laborbau-grittmann.de/wp-json/' />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://laborbau-grittmann.de/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.24" />
+<link rel="canonical" href="https://laborbau-grittmann.de/impressum/" />
+<link rel='shortlink' href='https://laborbau-grittmann.de/?p=270' />
+<link rel="alternate" type="application/json+oembed" href="https://laborbau-grittmann.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaborbau-grittmann.de%2Fimpressum%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://laborbau-grittmann.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flaborbau-grittmann.de%2Fimpressum%2F&#038;format=xml" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://laborbau-grittmann.de/wp-content/uploads/2015/04/grittmann_bg_2500.jpg"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: fixed; }
+</style>
+<link rel="icon" href="https://laborbau-grittmann.de/wp-content/uploads/cropped-Logo_Grittmann_fav-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://laborbau-grittmann.de/wp-content/uploads/cropped-Logo_Grittmann_fav-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://laborbau-grittmann.de/wp-content/uploads/cropped-Logo_Grittmann_fav-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://laborbau-grittmann.de/wp-content/uploads/cropped-Logo_Grittmann_fav-270x270.jpg" />
+<style id="et-core-unified-270-cached-inline-styles">.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#4e56a2!important}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.et_pb_member_social_links a:hover,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.tagged_as a,.posted_in a{color:#4e56a2}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce button.button.alt.disabled,.woocommerce-page button.button.alt,.woocommerce-page button.button.alt.disabled,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.et_pb_contact p input[type="checkbox"]:checked+label i:before,.et_pb_bg_layout_light.et_pb_module.et_pb_button{color:#4e56a2}.footer-widget h4{color:#4e56a2}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#4e56a2}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#4e56a2}a{color:#4e56a2}#top-header,#et-secondary-nav li ul{background-color:#4e56a2}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,.et_color_scheme_red #top-menu li.current-menu-ancestor>a,.et_color_scheme_red #top-menu li.current-menu-item>a,.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,.et_color_scheme_pink #top-menu li.current-menu-item>a,.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,.et_color_scheme_orange #top-menu li.current-menu-item>a,.et_color_scheme_green #top-menu li.current-menu-ancestor>a,.et_color_scheme_green #top-menu li.current-menu-item>a{color:#4e56a2}#footer-widgets .footer-widget a,#footer-widgets .footer-widget li a,#footer-widgets .footer-widget li a:hover{color:#ffffff}.footer-widget{color:#ffffff}#main-footer .footer-widget h4{color:#4e56a2}.footer-widget li:before{border-color:#4e56a2}.et_slide_in_menu_container,.et_slide_in_menu_container .et-search-field{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-moz-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field::-webkit-input-placeholder{letter-spacing:px}.et_slide_in_menu_container .et-search-field:-ms-input-placeholder{letter-spacing:px}@media only screen and (min-width:981px){.et-fixed-header#top-header,.et-fixed-header#top-header #et-secondary-nav li ul{background-color:#4e56a2}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a{color:#4e56a2!important}}@media only screen and (min-width:1350px){.et_pb_row{padding:27px 0}.et_pb_section{padding:54px 0}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px}.et_pb_fullwidth_section{padding:0}}</style></head>
+<body class="page-template-default page page-id-270 custom-background et_pb_button_helper_class et_fullwidth_secondary_nav et_vertical_nav et_vertical_fixed et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_boxed_layout et_cover_background et_pb_gutter linux et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css">
+<div id="page-container">
+<div id="top-header">
+<div class="container clearfix">
+<div id="et-info">
+<span id="et-info-phone">06221 7495-0</span>
+<a href="mailto:info@laborbau-grittmann.de"><span id="et-info-email">info@laborbau-grittmann.de</span></a>
+</div> <!-- #et-info -->
+<div id="et-secondary-menu">
+<ul id="et-secondary-nav" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-270 current_page_item menu-item-276"><a href="https://laborbau-grittmann.de/impressum/" aria-current="page">Impressum</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://laborbau-grittmann.de/datenschutzerklaerung/">Datenschutzerklärung</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-270 current_page_item menu-item-278"><a href="https://laborbau-grittmann.de/impressum/" aria-current="page">AGB</a></li>
+</ul>				</div> <!-- #et-secondary-menu -->
+</div> <!-- .container -->
+</div> <!-- #top-header -->
+<header id="main-header" data-height-onload="66">
+<div class="container clearfix et_menu_container">
+<div class="logo_container">
+<span class="logo_helper"></span>
+<a href="https://laborbau-grittmann.de/">
+<img src="https://laborbau-grittmann.de/wp-content/uploads/WAG-1901-rgb-2.jpg" alt="Laborbau Grittmann" id="logo" data-height-percentage="54" />
+</a>
+</div>
+<div id="et-top-navigation" data-height="66" data-fixed-height="40">
+<nav id="top-menu-nav">
+<ul id="top-menu" class="nav"><li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-201"><a href="https://laborbau-grittmann.de/">HOME</a></li>
+<li id="menu-item-140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-140"><a href="https://laborbau-grittmann.de/unternehmen/">UNTERNEHMEN</a></li>
+<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="https://laborbau-grittmann.de/stellenangebote/">STELLENANGEBOTE</a></li>
+<li id="menu-item-189" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-189"><a href="https://laborbau-grittmann.de/leistungen/">LEISTUNGEN</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://laborbau-grittmann.de/referenzen/">REFERENZEN</a></li>
+<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://laborbau-grittmann.de/kontakt/">KONTAKT</a></li>
+</ul>						</nav>
+<div id="et_mobile_nav_menu">
+<div class="mobile_nav closed">
+<span class="select_page">Seite wählen</span>
+<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+</div>
+</div>				</div> <!-- #et-top-navigation -->
+</div> <!-- .container -->
+<div class="et_search_outer">
+<div class="container et_search_form_container">
+<form role="search" method="get" class="et-search-form" action="https://laborbau-grittmann.de/">
+<input type="search" class="et-search-field" placeholder="Suchen &hellip;" value="" name="s" title="Suchen nach:" />					</form>
+<span class="et_close_search_field"></span>
+</div>
+</div>
+</header> <!-- #main-header -->
+<div id="et-main-area">
+<div id="main-content">
+<article id="post-270" class="post-270 page type-page status-publish hentry">
+<div class="entry-content">
+<div id="et-boc" class="et-boc">
+<div class="et-l et-l--post">
+<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0 et_section_regular" >
+<div class="et_pb_row et_pb_row_0">
+<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h1>Impressum</h1></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_1">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h2>Angaben gemäß § 5 TMG:</h2>
+<p>A. Grittmann GmbH &amp; Co. KG<br />
+Friedrich-Schott-Straße 4<br />
+69123 Heidelberg</p>
+<h2>Vertreten durch:</h2>
+<p>Uwe Grittmann<br />
+Claudia Grittmann</p>
+<h2>Kontakt:</h2>
+<p>Telefon: 06221 7495-0<br />
+Telefax: 06221 707429<br />
+E-Mail: info@laborbau-grittmann.de</p>
+<h2>Registereintrag:</h2>
+<p>Eintragung im Handelsregister.<br />
+Registergericht:Amtsgericht Heidelberg<br />
+Registernummer: HRA 332650</p>
+<h2>Umsatzsteuer:</h2>
+<p>Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:<br />
+DE 186768455</p>
+<h3>AGB</h3>
+<p><a href="https://laborbau-grittmann.de/wp-content/uploads/2015/05/ALLGEMEINE-GESCHÄFTS-u.-LIEFERBEDINGUNGEN.pdf" target="_blank" rel="noopener">Allgemeine Geschäftsbedingungen (PDF)<br />
+</a>Link mit der Maus anklicken, oder rechte Maustaste &#8222;Ziel speicher unter&#8220; wählen</p>
+<h3>Gestaltung und Programmierung</h3>
+<p>FLYINGFOX CREATIONS<br />
+Reinhard Wedemeyer<br />
+<a href="https://www.webseitenarchitekt.com" target="_blank" rel="noopener">www.webseitenarchitekt.com</a></p>
+<h3>Bildmaterial</h3>
+<p>Istockphoto</p>
+<h2>Streitschlichtung</h2>
+<p>Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener">https://ec.europa.eu/consumers/odr</a>.<br />
+Unsere E-Mail-Adresse finden Sie oben im Impressum.</p>
+<p>Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
+<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
+<div class="et_pb_text_inner"><h3>Haftung für Inhalte</h3>
+<p>Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</p>
+<p>Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.</p>
+<h3>Haftung für Links</h3>
+<p>Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.</p>
+<p>Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.</p>
+<h3>Urheberrecht</h3>
+<p>Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.</p>
+<p>Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
+<p>&nbsp;</p></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row -->
+</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular" >
+<div class="et_pb_row et_pb_row_2">
+<div class="et_pb_column et_pb_column_1_2 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough">
+<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><h2>Wir sind für Sie da</h2></div>
+</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_left et_pb_bg_layout_dark">
+<div class="et_pb_text_inner"><p>Tel: 06221 74950<br />
+Friedrich-Schott-Straße 4<br />
+69123 Heidelberg</p></div>
+</div> <!-- .et_pb_text -->
+</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+</div> <!-- .et_pb_column -->
+</div> <!-- .et_pb_row -->
+</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+</div><!-- .et-l -->
+</div><!-- #et-boc -->
+</div> <!-- .entry-content -->
+</article> <!-- .et_pb_post -->
+</div> <!-- #main-content -->
+
+<footer id="main-footer">
+<div id="footer-bottom">
+<div class="container clearfix">
+<ul class="et-social-icons">
+</ul><p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>					</div>	<!-- .container -->
+</div>
+</footer> <!-- #main-footer -->
+</div> <!-- #et-main-area -->
+</div> <!-- #page-container -->
+<script type='text/javascript' src='https://laborbau-grittmann.de/wp-includes/js/comment-reply.min.js?ver=5.4.24'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Vorherige","next":"N\u00e4chste"};
+var et_pb_custom = {"ajaxurl":"https:\/\/laborbau-grittmann.de\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/laborbau-grittmann.de\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/laborbau-grittmann.de\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"a851565464","subscription_failed":"Bitte \u00fcberpr\u00fcfen Sie die Felder unten aus, um sicherzustellen, dass Sie die richtigen Informationen eingegeben.","et_ab_log_nonce":"f92c7f7477","fill_message":"Bitte f\u00fcllen Sie die folgenden Felder aus:","contact_error_message":"Bitte folgende Fehler beheben:","invalid":"Ung\u00fcltige E-Mail","captcha":"Captcha","prev":"Vorherige","previous":"Vorherige","next":"Weiter","wrong_captcha":"Sie haben die falsche Zahl im Captcha eingegeben.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"270","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"yes","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://laborbau-grittmann.de/wp-content/themes/Divi/js/custom.unified.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://laborbau-grittmann.de/wp-content/themes/Divi/core/admin/js/common.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://laborbau-grittmann.de/wp-includes/js/wp-embed.min.js?ver=5.4.24'></script>
+<style id="et-core-unified-270-cached-inline-styles-2">.et_pb_text_1{font-size:12px}.et_pb_text_2{font-size:12px}.et_pb_text_1 h2{font-size:16px}.et_pb_text_1 h3{font-size:16px}.et_pb_text_2 h2{font-size:16px}.et_pb_text_2 h3{font-size:16px}div.et_pb_section.et_pb_section_1{background-image:url(https://laborbau-grittmann.de/wp-content/uploads/2015/04/grittm-bg-content-blau.jpg)!important}.et_pb_section_1.et_pb_section{background-color:#ffffff!important}</style></body>
+</html><!-- WP Fastest Cache file was created in 0.7281641960144 seconds, on 07-10-26 18:24:53 -->
