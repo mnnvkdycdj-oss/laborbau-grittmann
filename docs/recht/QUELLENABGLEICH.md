@@ -54,7 +54,7 @@ Die AGB-PDF ist eine Seite lang und enthält 13 nummerierte Abschnitte. Die heru
 | Keine Zusammenführung mit anderen Datenquellen | Nicht ungeprüft für GitHub zugesichert |
 | Google reCAPTCHA | Nicht als eingesetzter Dienst übernommen: im neuen Code nicht eingebunden |
 | Google Maps | Nicht als eingesetzter Dienst übernommen: im neuen Code nicht eingebunden |
-| Google Web Fonts | Weiterhin relevant: vorhandener externer CSS-Import ist beschrieben; Rechtsgrundlage/Einwilligung oder lokale Bereitstellung bleibt Freigabeblocker |
+| Google Web Fonts | Der ursprüngliche externe CSS-Import wurde im PR-Branch durch Systemschriftarten ersetzt. Die Datenschutzerklärung wurde entsprechend aktualisiert; vor Freigabe Netzwerkprüfung der veröffentlichten Seiten durchführen |
 | Kontaktformulare / Produktauswahl | Für neue Technik ergänzt: `mailto:` statt Formularserver, freiwillige Telefonnummer, Pflichtfelder und ausgewählte Produktbereiche |
 | Datenempfänger / Löschung / Drittlandtransfers | Nicht geraten; konkrete Host-/Mailkonfiguration und Nachweise weiterhin offen |
 | Automatisierte Entscheidungen / Cookies / Tracking | Auf geprüften neuen Website-Code begrenzt; keine Analyse-, Karten-, Video-, CAPTCHA- oder Zahlungseinbindung festgestellt |
