@@ -34,14 +34,15 @@
   .js .site-page .head .nav a[aria-current="page"] { background: #ffffff15; box-shadow: none; }
 }
 @media(max-width:600px) {
-  :root { --site-header: 170px; }
-  .site-page .head .brand { gap: 12px; }
+  :root { --site-header: 145px; }
+  .site-page .head .brand { gap: 0; }
+  .site-page .head .brand > span { display: none !important; }
   .site-page .head .brand img.site-logo { width: 148px !important; }
   .site-page .head .brand-name strong { max-width: 126px; font-size: 14px; }
 }
 
 @media(max-width:390px) {
-  :root { --site-header: 152px; }
+  :root { --site-header: 132px; }
   .site-page .head .headin { gap: 8px; }
   .site-page .head .brand { gap: 8px; }
   .site-page .head .brand img.site-logo { width: 128px !important; }
