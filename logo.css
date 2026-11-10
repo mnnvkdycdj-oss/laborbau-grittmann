@@ -1,20 +1,41 @@
-/* Original uploaded logo, displayed whole. Only header sizing is adjusted. */
-:root { --site-header: 144px; }
+/* Integrate the unmodified original PNG into a matching, compact header. */
+:root { --site-header: 112px; --logo-header: #010849; }
+.site-page .top { background: var(--logo-header); color: #d8e2f1; }
+.site-page .head {
+  background: var(--logo-header) !important;
+  border-bottom-color: #ffffff26;
+  box-shadow: none !important;
+}
+.site-page .head .brand { gap: 16px; }
 .site-page .head .brand img.site-logo {
   display: block;
-  width: 112px !important;
+  width: 80px !important;
   height: auto !important;
   max-width: none;
   object-fit: contain;
   flex: 0 0 auto;
 }
+.site-page .head .brand strong { color: #fff; }
+.site-page .head .brand small { color: #c3cee2; }
 .site-page .head .brand-name strong { max-width: 180px; }
+.site-page .head .nav { background: var(--logo-header); }
+.site-page .head .nav a { color: #fff; }
+.site-page .head .nav a:hover,
+.site-page .head .nav a[aria-current="page"] { color: #c9e2ff; }
+.site-page .head .nav a[aria-current="page"] { box-shadow: inset 0 -2px #c9e2ff; }
+.site-page .head .nav .nav-cta { color: var(--logo-header); background: #fff; }
+.site-page .head .nav .nav-cta:hover { color: var(--logo-header); background: #e6eef8; }
+.site-page .head .menu { color: #fff; background: transparent; border-color: #ffffff50; }
+.site-page .head :is(a, button):focus-visible { outline-color: #fff; }
 @media(max-width:1100px) {
-  :root { --site-header: 128px; }
-  .site-page .head .brand img.site-logo { width: 96px !important; }
+  :root { --site-header: 104px; }
+  .site-page .head .brand img.site-logo { width: 76px !important; }
+  .js .site-page .head .nav { border-color: #ffffff40; background: var(--logo-header); }
+  .js .site-page .head .nav a[aria-current="page"] { background: #ffffff15; box-shadow: none; }
 }
 @media(max-width:600px) {
-  :root { --site-header: 112px; }
-  .site-page .head .brand img.site-logo { width: 80px !important; }
+  :root { --site-header: 92px; }
+  .site-page .head .brand { gap: 12px; }
+  .site-page .head .brand img.site-logo { width: 64px !important; }
   .site-page .head .brand-name strong { max-width: 126px; font-size: 14px; }
 }
