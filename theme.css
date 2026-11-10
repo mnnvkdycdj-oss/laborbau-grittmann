@@ -24,7 +24,7 @@
 /* Shared header: full navigation on desktop, accessible disclosure on small screens. */
 .site-page .top { background: var(--site-navy); font-size: 12px; }
 .site-page .top .wrap { padding-block: 8px; }
-.site-page .head { position: sticky !important; top: 0; z-index: 100; padding: 0; background: #fff !important; border-bottom: 1px solid var(--site-line); box-shadow: 0 4px 24px #102b4808 !important; }
+.site-page .head { position: relative !important; top: auto; z-index: 100; padding: 0; background: #fff !important; border-bottom: 1px solid var(--site-line); box-shadow: 0 4px 24px #102b4808 !important; }
 .site-page .headin { display: flex; align-items: center; justify-content: space-between; gap: 24px; min-height: var(--site-header) !important; position: relative; }
 .site-page .head .brand { display: inline-flex; align-items: center; gap: 12px; flex-shrink: 0; color: var(--site-navy); text-decoration: none; }
 .site-page .head .brand img { width: 44px !important; height: 54px !important; max-width: none; object-fit: contain; }
