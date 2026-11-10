@@ -1,0 +1,20 @@
+/* Original uploaded logo, displayed whole. Only header sizing is adjusted. */
+:root { --site-header: 144px; }
+.site-page .head .brand img.site-logo {
+  display: block;
+  width: 112px !important;
+  height: auto !important;
+  max-width: none;
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+.site-page .head .brand-name strong { max-width: 180px; }
+@media(max-width:1100px) {
+  :root { --site-header: 128px; }
+  .site-page .head .brand img.site-logo { width: 96px !important; }
+}
+@media(max-width:600px) {
+  :root { --site-header: 112px; }
+  .site-page .head .brand img.site-logo { width: 80px !important; }
+  .site-page .head .brand-name strong { max-width: 126px; font-size: 14px; }
+}
