@@ -55,3 +55,31 @@
   .site-page .head .brand > span { max-width: 94px; }
   .site-page .head .brand-name strong { max-width: 94px; font-size: 13px; }
 }
+
+
+/* Restore the original WAG signet from logo-blau.png.
+   Render its dark-blue artwork in white against the existing navy header;
+   keep the original file, photos, layout and navigation untouched. */
+.site-page .head .brand img.site-logo { display: none !important; }
+.site-page .head .brand::before {
+  content: "";
+  display: block;
+  flex: 0 0 auto;
+  width: 210px;
+  aspect-ratio: 1329 / 1183;
+  background: url("logo-blau.png") center / contain no-repeat;
+  filter: grayscale(1) invert(1) brightness(2);
+  mix-blend-mode: screen;
+}
+@media(max-width:1100px) {
+  .site-page .head .brand::before { width: 178px; }
+}
+@media(max-width:600px) {
+  .site-page .head .brand::before { width: 148px; }
+}
+@media(max-width:390px) {
+  .site-page .head .brand::before { width: 128px; }
+}
+@media(max-width:340px) {
+  .site-page .head .brand::before { width: 112px; }
+}
