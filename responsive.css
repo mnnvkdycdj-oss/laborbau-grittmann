@@ -1,0 +1,68 @@
+/* Bestehende Handyansicht der Startseite; aus index.html übernommen. */
+/* Nur Handy: Bild und Text getrennt; Desktop bleibt unverändert. */
+@media (max-width:700px) {
+  section.gr-landing {
+    display:flex !important;
+    flex-direction:column !important;
+    align-items:stretch !important;
+    min-height:0 !important;
+    height:auto !important;
+    padding:0 !important;
+    background:#fff !important;
+    overflow:visible !important;
+  }
+  section.gr-landing .gr-landing-photo {
+    position:relative !important;
+    inset:auto !important;
+    display:block !important;
+    flex:none !important;
+    height:clamp(230px,64vw,350px) !important;
+    width:100% !important;
+    overflow:hidden !important;
+    background:#eaf0f5 !important;
+  }
+  section.gr-landing .gr-slide {background-position:center center !important;}
+  section.gr-landing .gr-landing-content {
+    position:relative !important;
+    display:block !important;
+    width:100% !important;
+    max-width:none !important;
+    margin:0 !important;
+    padding:26px 22px 30px !important;
+    border-radius:0 !important;
+    background:#fff !important;
+    color:#0b2340 !important;
+    box-shadow:none !important;
+  }
+  section.gr-landing .gr-landing-content .eyebrow {color:#17608f !important;font-size:11px !important;}
+  section.gr-landing .gr-landing-content h1 {
+    color:#0b2340 !important;
+    font-size:clamp(28px,7vw,36px) !important;
+    line-height:1.13 !important;
+    margin:10px 0 12px !important;
+  }
+  section.gr-landing .gr-landing-content h1 span {color:#1875ab !important;}
+  section.gr-landing .gr-landing-content p {
+    color:#52647c !important;
+    font-size:15px !important;
+    line-height:1.5 !important;
+    margin:0 0 18px !important;
+  }
+  section.gr-landing .gr-landing-content .actions {display:flex !important;gap:10px !important;flex-wrap:wrap !important;}
+  section.gr-landing .gr-landing-content .actions .btn {
+    flex:1 1 145px !important;
+    min-width:0 !important;
+    padding:12px 10px !important;
+    font-size:13px !important;
+    line-height:1.25 !important;
+    text-align:center !important;
+  }
+  section.gr-landing .gr-landing-content .actions .btn.alt {
+    color:#14548c !important;
+    border:1px solid #14548c !important;
+    background:#fff !important;
+  }
+  section.gr-landing .gr-slide-prev,
+  section.gr-landing .gr-slide-next {top:50% !important;transform:translateY(-50%) !important;}
+  section.gr-landing .gr-slide-dots {bottom:12px !important;}
+}
