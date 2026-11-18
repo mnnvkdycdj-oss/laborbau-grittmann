@@ -1,23 +1,71 @@
-/* Integrate the unmodified original PNG into a matching, compact header. */
-:root { --site-header: 232px; --logo-header: #010849; }
-.site-page .top { background: var(--logo-header); color: #d8e2f1; }
+/* WAG branding: navy header, white signet and company name side by side. */
+:root { --site-header: 120px; --logo-header: #050e51; }
+.site-page .top { background: #233f77; color: #fff; }
 .site-page .head {
   background: var(--logo-header) !important;
   border-bottom-color: #ffffff26;
   box-shadow: none !important;
 }
-.site-page .head .brand { gap: 16px; }
-.site-page .head .brand img.site-logo {
-  display: block;
-  width: 210px !important;
-  height: auto !important;
-  max-width: none;
-  object-fit: contain;
-  flex: 0 0 auto;
+.site-page .head .headin { gap: 18px; }
+.site-page .head .brand {
+  display: inline-flex;
+  align-items: center;
+  flex-shrink: 1;
+  min-width: 0;
+  gap: 14px;
+  color: #fff;
+  text-decoration: none;
 }
-.site-page .head .brand strong { color: #fff; }
-.site-page .head .brand small { color: #c3cee2; }
-.site-page .head .brand-name strong { max-width: 180px; }
+/* Keep the existing image element in the markup, but show the historic WAG signet. */
+.site-page .head .brand img.site-logo { display: none !important; }
+.site-page .head .brand::before {
+  content: "";
+  display: block;
+  width: 103px;
+  aspect-ratio: 1329 / 1183;
+  flex: 0 0 auto;
+  background: url("logo-blau.png") center / contain no-repeat;
+  filter: grayscale(1) invert(1) brightness(2);
+  mix-blend-mode: screen;
+}
+.site-page .head .brand > span,
+.site-page .head .brand > span.brand-name {
+  display: block !important;
+  min-width: 0;
+  max-width: none;
+  line-height: 1.25;
+}
+/* Text is generated consistently, including on older pages with A. Grittmann. */
+.site-page .head .brand > span strong,
+.site-page .head .brand > span.brand-name strong {
+  display: block;
+  max-width: none;
+  font-size: 0 !important;
+  line-height: 1.18;
+  color: #fff;
+  white-space: normal;
+}
+.site-page .head .brand > span strong::after {
+  content: "Laborbau Grittmann";
+  display: block;
+  font: 750 22px/1.18 system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  letter-spacing: -.025em;
+  color: #fff;
+}
+.site-page .head .brand > span small {
+  display: block;
+  max-width: none;
+  margin-top: 5px;
+  font-size: 0 !important;
+  color: #d9e0ef;
+}
+.site-page .head .brand > span small::after {
+  content: "GmbH & Co. KG · Seit 1901";
+  display: block;
+  font: 400 12px/1.4 system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+  letter-spacing: .015em;
+  color: #d9e0ef;
+}
 .site-page .head .nav { background: var(--logo-header); }
 .site-page .head .nav a { color: #fff; }
 .site-page .head .nav a:hover,
@@ -25,125 +73,32 @@
 .site-page .head .nav a[aria-current="page"] { box-shadow: inset 0 -2px #c9e2ff; }
 .site-page .head .nav .nav-cta { color: var(--logo-header); background: #fff; }
 .site-page .head .nav .nav-cta:hover { color: var(--logo-header); background: #e6eef8; }
-.site-page .head .menu { color: #fff; background: transparent; border-color: #ffffff50; }
+.site-page .head .menu { color: #fff; background: transparent; border-color: #ffffff70; }
 .site-page .head :is(a, button):focus-visible { outline-color: #fff; }
+
 @media(max-width:1100px) {
-  :root { --site-header: 200px; }
-  .site-page .head .brand img.site-logo { width: 178px !important; }
+  :root { --site-header: 114px; }
+  .site-page .head .brand::before { width: 96px; }
   .js .site-page .head .nav { border-color: #ffffff40; background: var(--logo-header); }
   .js .site-page .head .nav a[aria-current="page"] { background: #ffffff15; box-shadow: none; }
 }
 @media(max-width:600px) {
-  :root { --site-header: 145px; }
-  .site-page .head .brand { gap: 0; }
-  .site-page .head .brand > span { display: none !important; }
-  .site-page .head .brand img.site-logo { width: 148px !important; }
-  .site-page .head .brand-name strong { max-width: 126px; font-size: 14px; }
+  :root { --site-header: 108px; }
+  .site-page .head .headin { gap: 10px; }
+  .site-page .head .brand { gap: 10px; }
+  .site-page .head .brand::before { width: 82px; }
+  .site-page .head .brand > span strong::after { font-size: 18px; }
+  .site-page .head .brand > span small::after { font-size: 10px; letter-spacing: 0; }
 }
-
 @media(max-width:390px) {
-  :root { --site-header: 132px; }
-  .site-page .head .headin { gap: 8px; }
+  :root { --site-header: 102px; }
   .site-page .head .brand { gap: 8px; }
-  .site-page .head .brand img.site-logo { width: 128px !important; }
-  .site-page .head .brand > span { min-width: 0; max-width: 112px; }
-  .site-page .head .brand-name strong { max-width: 112px; font-size: 14px; }
-  .site-page .head .brand small { font-size: 8px; }
+  .site-page .head .brand::before { width: 74px; }
+  .site-page .head .brand > span strong::after { font-size: 16px; }
+  .site-page .head .brand > span small::after { font-size: 9px; }
 }
 @media(max-width:340px) {
-  .site-page .head .brand img.site-logo { width: 112px !important; }
-  .site-page .head .brand > span { max-width: 94px; }
-  .site-page .head .brand-name strong { max-width: 94px; font-size: 13px; }
-}
-
-
-/* Restore the original WAG signet from logo-blau.png.
-   Render its dark-blue artwork in white against the existing navy header;
-   keep the original file, photos, layout and navigation untouched. */
-.site-page .head .brand img.site-logo { display: none !important; }
-.site-page .head .brand::before {
-  content: "";
-  display: block;
-  flex: 0 0 auto;
-  width: 210px;
-  aspect-ratio: 1329 / 1183;
-  background: url("logo-blau.png") center / contain no-repeat;
-  filter: grayscale(1) invert(1) brightness(2);
-  mix-blend-mode: screen;
-}
-@media(max-width:1100px) {
-  .site-page .head .brand::before { width: 178px; }
-}
-@media(max-width:600px) {
-  .site-page .head .brand::before { width: 148px; }
-}
-@media(max-width:390px) {
-  .site-page .head .brand::before { width: 128px; }
-}
-@media(max-width:340px) {
-  .site-page .head .brand::before { width: 112px; }
-}
-
-/* Approved header: WAG signet with Laborbau Grittmann next to it, on navy.
-   Visual text override also covers the large homepage without changing its embedded photos. */
-.site-page .head .brand { gap: 0; }
-.site-page .head .brand::before { width: 145px; }
-.site-page .head .brand > span {
-  display: block !important;
-  min-width: 0 !important;
-  max-width: none !important;
-  margin-left: 14px;
-  padding-left: 14px;
-  border-left: 1px solid rgba(255,255,255,.65);
-}
-.site-page .head .brand > span > strong {
-  display: block;
-  max-width: none !important;
-  font-size: 0 !important;
-  line-height: 1.15;
-}
-.site-page .head .brand > span > strong::after {
-  content: "Laborbau Grittmann";
-  display: block;
-  color: #fff;
-  font-size: 22px;
-  font-weight: 750;
-  line-height: 1.18;
-  letter-spacing: -.02em;
-}
-.site-page .head .brand > span > small {
-  display: block;
-  color: #c3cee2;
-  font-size: 11px;
-  line-height: 1.35;
-  margin-top: 4px;
-}
-@media(min-width:1101px) {
-  :root { --site-header: 168px; }
-}
-@media(max-width:1100px) {
-  :root { --site-header: 142px; }
-  .site-page .head .brand::before { width: 110px; }
-  .site-page .head .brand > span > strong::after { font-size: 19px; }
-}
-@media(max-width:600px) {
-  :root { --site-header: 116px; }
-  .site-page .head .headin { gap: 8px; }
-  .site-page .head .brand::before { width: 77px; }
-  .site-page .head .brand > span { margin-left: 9px; padding-left: 10px; }
-  .site-page .head .brand > span > strong::after { font-size: 17px; }
-  .site-page .head .brand > span > small { font-size: 10px; }
-}
-@media(max-width:390px) {
-  :root { --site-header: 110px; }
-  .site-page .head .brand::before { width: 70px; }
-  .site-page .head .brand > span { margin-left: 7px; padding-left: 8px; }
-  .site-page .head .brand > span > strong::after { font-size: 16px; }
-}
-@media(max-width:340px) {
-  :root { --site-header: 104px; }
-  .site-page .head .brand::before { width: 62px; }
-  .site-page .head .brand > span { margin-left: 6px; padding-left: 7px; }
-  .site-page .head .brand > span > strong::after { font-size: 14px; }
-  .site-page .head .brand > span > small { font-size: 9px; }
+  .site-page .head .brand::before { width: 64px; }
+  .site-page .head .brand > span strong::after { font-size: 14px; }
+  .site-page .head .brand > span small::after { font-size: 8px; }
 }
